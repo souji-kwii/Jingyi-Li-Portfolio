@@ -3,7 +3,7 @@ Personal works 2022-2025
 
 ## How to see it
 1. Click on the tag "Portfolio" in Releases.
-2. down the link"portfolio.zip"
+2. Download the link"portfolio.zip"
 
 ## The content
 1. StoryPaws is a character-driven parent-child communication system built on “phygital physical-digital integration” and “object recognition + multimodal interaction”: Using proprietary IP character dolls as “storytelling companions and guides,” it identifies physical props and actions within the child's reach, collects spontaneous playtime utterances, analyzes children's psychological intent, and generates stylized storybooks; It simultaneously provides parents with story reviews and communication/developmental insights. The project has now completed a functional working prototype.
